@@ -13,8 +13,8 @@
 
 使用前需在高德开发者控制台创建应用，获取应用的key值
 
-![](C:\Users\RickyChu\OneDrive - HHU\GaodeMap-hhu\GaoDe-key.png)
+![](https://github.com/Ricky-Chu/GaodeMap-APITest/blob/main/GaoDe-key.png)
 
 将此key值填入AndroidManifest.xml文件meta-data下，具体路径和位置如下：
 
-![](C:\Users\RickyChu\OneDrive - HHU\GaodeMap-hhu\AndroidManifest-path.png)
+![](https://github.com/Ricky-Chu/GaodeMap-APITest/blob/main/AndroidManifest-path.png)
